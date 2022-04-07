@@ -1,6 +1,6 @@
 # Neural Net
 
-Question No.1. Vision Dataset: Please find your dataset from the link -
+## Question No.1. Vision Dataset: Please find your dataset from the link -
 https://github.com/zalandoresearch/fashion-mnist (Links to an external site.)
 
 Plot at least two samples from each class of the dataset (use matplotlib/seaborn/any other library).
@@ -25,7 +25,7 @@ Print the two most incorrectly classified images for each class in the test data
 
 
 
-Question No.2. NLP Dataset: Please find your dataset from the link - https://ai.stanford.edu/~amaas/data/sentiment/ 
+## Question No.2. NLP Dataset: Please find your dataset from the link - https://ai.stanford.edu/~amaas/data/sentiment/ 
 
 Load the texts and add labels as ‘pos’ and ‘neg’
 
